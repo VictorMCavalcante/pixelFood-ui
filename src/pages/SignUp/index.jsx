@@ -1,5 +1,5 @@
 import { Container, Form } from './style'
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/logo2.png'
 import { Input } from '../../components/Input'
 import { Button } from '../../components/Button'
 import { Link, useNavigate } from 'react-router-dom'
