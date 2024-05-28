@@ -6,11 +6,10 @@ export const Container = styled.div`
     align-items: center;
     height: 100vh;
     .content-logo img {
-        max-width: 100%;
     }
 
     .content-logo {
-        margin: 42px 0;
+        
         padding: 64px;
         display: flex;
         justify-content: center;
